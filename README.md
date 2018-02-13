@@ -12,11 +12,11 @@
 3. Click on the grid cells that you want the color applied to.
 4. (optional) Select other colors and continue to paint the pixel art the way you want.
 
-** Select a new grid size to reset the grid to default **
+*Select a new grid size to reset the grid to default*
 
 ### Credits:
-* ** Jonathan Deleon **
-* ** Created: Feb 12, 2018 **
+* **Jonathan Deleon**
+* **Created: Feb 12, 2018**
 
-#### Have Suggestions? 
+#### Have Suggestions?
 * Create a issue ticket to discuss the potential changes and I will be able to provide you with further details if needed.
